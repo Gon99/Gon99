@@ -1,4 +1,4 @@
-Hi! Mi name is Gonzalo Liaño and Im currently studying at 42Madrid.
+Hi! My name is Gonzalo Liaño and Im currently studying at 42Madrid.
 
 You can reach me on LinkedIn:
 
