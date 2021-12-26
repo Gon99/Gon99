@@ -8,11 +8,17 @@ You can reach me on LinkedIn:
 </a>  
 </div>
 
-##GitHub Stats
+***
+## GitHub Stats
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gon99&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/gon99?tab=repositories)
 
-##42 Madrid Stats
+***
+## 42 Madrid Stats
+
 [![goliano- 42 stats](https://badge42.herokuapp.com/api/stats/goliano-?darkmode=true&cursus=42cursus&privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-##Most used Languages
+***
+## Most used Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gon99&langs_count=7&layout=compact&hide=jupyter%20notebook,objective-c,makefile&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
